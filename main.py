@@ -1,3 +1,7 @@
+# Copyright (c) 2025 sakib-maho
+# Licensed under the MIT License
+# See LICENSE file for details
+
 # This is a sample Python script.
 
 # Press ⌃R to execute it or replace it with your code.
