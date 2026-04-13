@@ -1,5 +1,12 @@
 # Coursework Final Project - Rental HTML Parser
 
+<!-- BrandCloud:readme-standard -->
+[![Maintained](https://img.shields.io/badge/Maintained-yes-brightgreen.svg)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Showcase](https://img.shields.io/badge/Portfolio-Showcase-blue.svg)](#)
+
+_Part of the `sakib-maho` project showcase series with consistent documentation and quality standards._
+
 This project was upgraded into a practical Python CLI that extracts rental listing links from
 local HTML files and exports structured JSON output.
 
