@@ -26,11 +26,15 @@ cd coursework-final-project
 python3 cli.py --input tests/fixtures/sample_listing.html --json-out output/links.json
 ```
 
-## Run Tests
+## Tests
 
 ```bash
 python3 -m unittest discover -s tests -p "test_*.py"
 ```
+
+## License
+
+MIT License. See `LICENSE`.
 
 ## Project Structure
 
@@ -45,7 +49,3 @@ coursework-final-project/
 │   └── test_parser.py
 └── main.py
 ```
-
-## License
-
-MIT License. See `LICENSE`.
